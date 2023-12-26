@@ -7,9 +7,6 @@ A simple and responsive To-Do website with CRUD operations, built using React an
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
