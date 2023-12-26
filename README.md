@@ -1,6 +1,6 @@
 # To-Do App
 
-A simple and responsive To-Do website with CRUD operations, built using React and Vite.
+A simple and responsive To-Do website with CRUD operations, built using React.
 
 ## Table of Contents
 
